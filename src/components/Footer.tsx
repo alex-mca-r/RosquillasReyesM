@@ -72,7 +72,7 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className="hover:text-brand-orange transition-colors"
               >
-                WhatsApp: +505 8175 9257
+                WhatsApp: +505 0000 0000
               </a>
             </li>
             <li className="mt-4 pt-3 border-t border-white/40 text-[12px] text-brand-navy/80">
